@@ -1,3 +1,3 @@
-class profile::manifest {
+class profile::minecraft {
   include minecraft
 }
